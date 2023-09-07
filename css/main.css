@@ -1,1 +1,14 @@
 /* Place CSS styles here */
+body{
+    color: rgb(109, 55, 141);
+    background-color: gold;
+}
+
+.dog-picture{
+    size: 200px;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
