@@ -3,12 +3,17 @@ body{
     color: rgb(109, 55, 141);
     background-color: gold;
     font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
 }
 
 .dog-picture{
     text-align: center;
 }
+p{
+    line-height: 1.6px;
+}
 
 h1{
+    text-transform: uppercase;
     text-align: center;
 }
